@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/>I am an <a href="https://linkedin">IT Professional</a>
+<h1>Hi, I'm David! <br/>I'm an <a href="https://linkedin">IT Professional</a>
 
 <h2> IT Projects</h2>
   
