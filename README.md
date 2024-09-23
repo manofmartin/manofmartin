@@ -3,8 +3,8 @@
 <h2> IT Projects</h2>
   
 - <b>Virtual Machine Creation</b>
-  - [Windows server 2022 VM](https://github.com/manofmartin/WindowsServerVM)
-- <b>Create the Active Direcotry Domain server</b>
+  - [Windows Server 2022 VM](https://github.com/manofmartin/WindowsServerVM)
+- <b>Create the Active Direcotry Domain Server</b>
   - [Windows Active Domain Role Confgiuration](https://github.com/manofmartin/ActiveDirecortyDomainServer)
 - <b>Create and Assign Workstations to Active Directory Forest</b>
   - [Workstation creation and assignment](https://github.com/manofmartin/Workstationcreationandassignment/)
