@@ -1,6 +1,6 @@
 <h1>Hi, I'm David! <br/>I'm an <a href="https://linkedin">IT Professional</a>
 
-<h2> IT Projects</h2>
+<h2> Active Directory Project</h2>
   
 - <b>Virtual Machine Creation</b>
   - [Windows Server 2022 VM](https://github.com/manofmartin/WindowsServerVM)
